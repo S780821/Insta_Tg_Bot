@@ -74,7 +74,7 @@ Example: /followers samantharuthprabhuoffl
 
 Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
 
-While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagram_session.py](https://github.com/S780821/Insta_Tg_Bot/blob/main/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@S780821/generateInstagramSession)
+While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagram_session.py](https://github.com/S780821/GenerateInstagramSession/blob/main/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@S780821/generateInstagramSession)
 
 For Generating Session after deployment, You Must leave the Variable as blank and fill manually after generating `INSTA_SESSIONFILE_ID` from your bot by sending /login.
 
@@ -96,7 +96,7 @@ python3 main.py
 * `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
 * `OWNER_ID` Telegram Id of Owner.
 * `INSTAGRAM_USERNAME` Your Instagram username
-* `INSTA_SESSIONFILE_ID` Your Instagram session file ID. Generate either by running [generate_instagram_session.py](https://github.com/S780821/Insta_Tg_Bot/blob/main/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@S780821/generateInstagramSession)
+* `INSTA_SESSIONFILE_ID` Your Instagram session file ID. Generate either by running [generate_instagram_session.py](https://github.com/S780821/Insta_Tg_Bot/blob/main/GenerateInstagramSession]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@S780821/generateInstagramSession)
 
 
 ### Note
@@ -109,7 +109,7 @@ Fork the repo, Do not Import code.
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/S780821_bot)
+Connect Me On [Telegram](https://telegram.dog/S780821)
 
 
 ```

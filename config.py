@@ -105,7 +105,7 @@ Use /help to know What I can Do?</b>
 """
     HOME_TEXT_OWNER = """
 <b>Helo, [{}](tg://user?id={})
-I am your assistant to manage your Instagram account , Powered by @XmartySupport.
+I am your assistant to manage your Instagram account , Powered by @Xmarty_Support.
 
 Use /help to know what I can do for you.</b>
 """
